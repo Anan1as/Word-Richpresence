@@ -5,7 +5,7 @@ import win32process
 import psutil
 
 # ID de la aplicación de Discord
-client_id = "1257074430891393156"
+client_id = "-Your client ID/application ID here-"
 
 # Función para obtener la ventana activa de Word
 def get_word_window_info():
